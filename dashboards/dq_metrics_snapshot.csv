@@ -1,0 +1,2 @@
+run_timestamp,total_transactions,missing_critical_fields,duplicate_transaction_ids,invalid_sale_price,future_dated_transactions,orphan_property_fk,orphan_buyer_fk,invalid_mortgage_amount
+2026-03-05T23:37:14,658,0,19,23,13,6,10,15
